@@ -391,8 +391,9 @@ with demo:
             gr.Markdown('''
                 ### Você pode testar os exemplos abaixo ou carregar um arquivo de áudio:
                 ''')
-        examples = gr.Examples(examples=["poincarre_klein.wav",
+        examples = gr.Examples(examples=["poincare_klein.wav",
                                          "jose_ferreira.wav",
+                                         "b12-16b-16kz.wav",
                                          ],
                                label="Exemplos", inputs=[upload])
         transcribe_btn.click(
