@@ -392,7 +392,7 @@ with demo:
                 ### Você pode testar os exemplos abaixo ou carregar um arquivo de áudio:
                 ''')
         examples = gr.Examples(examples=["poincarre_klein.wav",
-                                         "sample1.wav",
+                                         "jose_ferreira.wav",
                                          ],
                                label="Exemplos", inputs=[upload])
         transcribe_btn.click(
