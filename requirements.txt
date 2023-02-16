@@ -1,7 +1,8 @@
 ################
 ##git+https://github.com/huggingface/transformers
-#git+https://github.com/pyannote/pyannote-audio
+git+https://github.com/pyannote/pyannote-audio
 git+https://github.com/openai/whisper.git
+transformers
 gradio==3.12
 ffmpeg-python
 pandas==1.5.0

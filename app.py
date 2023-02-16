@@ -35,7 +35,7 @@ source_languages = {
     # "ko": "Korean",
     "fr": "French",
     # "ja": "Japanese",
-    # "tr": "Turkish",
+    # "tr": "Turkish",      
     # "pl": "Polish",
     # "ca": "Catalan",
     # "nl": "Dutch",
